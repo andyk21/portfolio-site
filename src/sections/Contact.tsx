@@ -37,7 +37,7 @@ export const ContactSection = () => {
                   LinkedIn
                 </a>
                 <a 
-                  href="" 
+                  href="https://github.com/andyk21/" 
                   className="border border-white/15 h-12 px-12 rounded-xl font-semibold inline-flex items-center justify-center gap-2 hover:bg-white/10 transition-colors"
                 >
                   <GitHubIcon className="size-4" />

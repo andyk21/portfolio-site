@@ -15,7 +15,7 @@ export const Footer = () => {
               <LinkedInIcon className='size-4' fill='white' fillOpacity='0.4' />
               <span>LinkedIn</span>
             </a>
-            <a href="" className='text-white/40 font-semibold inline-flex items-center gap-1.5'>
+            <a href="https://github.com/andyk21/" className='text-white/40 font-semibold inline-flex items-center gap-1.5'>
               <GitHubIcon className='size-4' />
               <span>GitHub</span>
             </a>
