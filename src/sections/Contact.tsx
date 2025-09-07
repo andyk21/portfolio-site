@@ -20,7 +20,7 @@ export const ContactSection = () => {
               </h3>
               <p className="text-white/60 mb-8 text-lg">
                 Whether you have a project in mind or just want to chat about the future of software development, 
-                I'm always excited to connect with fellow developers and potential collaborators.
+                I&apos;m always excited to connect with fellow developers and potential collaborators.
               </p>
               <div className="flex flex-col md:flex-row gap-4 justify-center">
                 {/* <a 
