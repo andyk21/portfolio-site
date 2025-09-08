@@ -31,7 +31,7 @@ const portfolioProjects = [
       { title: "Implemented a <strong>MySQL</strong> database and <strong>Java Servlets</strong> for backend functionality capable of supporting up to 200 concurrent users" },
       { title: "Developed responsive, cross-browser UI with <strong>HTML</strong>, <strong>CSS</strong>, <strong>AJAX</strong>, and <strong>TypeScript</strong>" },
     ],
-    link: "",
+    link: "https://github.com/andyk21/RateMyTA",
     image: rmtaImg,
   },
   {
