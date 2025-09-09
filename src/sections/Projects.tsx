@@ -43,7 +43,7 @@ const portfolioProjects = [
       { title: "Designed custom components with <strong>Tailwind CSS</strong> and <strong>Framer Motion</strong> for smooth animations" },
       { title: "Created modular architecture with reusable components and interactive sections" },
     ],
-    link: "",
+    link: "https://github.com/andyk21/portfolio-site",
     image: portfolioImg,
   },
 ];
